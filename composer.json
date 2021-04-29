@@ -1,0 +1,11 @@
+{
+    "name": "marcio/cinema",
+    "description": "Projeto Integrador Web",
+    "authors": [
+        {
+            "name": "Marcio Monks",
+            "email": "marcio.monks@gmail.com"
+        }
+    ],
+    "require": {}
+}
